@@ -22,3 +22,10 @@ Quick Facts:
 * ~ 25,000 open ended comments in the most recent survey
 
 ## Data Exploration
+
+<img src="/../screenshots/cdf_word_counts.png" width="300" height="400" title="Word Count CDF"> 
+
+* Mean (red): 53 words
+* Cutoff for LDA (yellow): 20 words
+    * Set a cutoff in order to provide LDA with enough substance for a topic model
+    * About 60% (16,000) comments met the threshold
