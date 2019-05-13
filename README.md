@@ -52,3 +52,7 @@ Quick Facts:
 * Plotted topics by number of comments scoring highest and second highest in each topic 
 
 <img src="/../screenshots/capstone_presentation.png" width="700" height="350" title="Two Plots in One">
+
+Testing and School Climate are by far the most common primary topics. There is a tighter range for the secondary topics
+
+* Assigned each comment to any topic for which the comment had a score above 0.2 for that topic
