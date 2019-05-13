@@ -29,3 +29,21 @@ Quick Facts:
 * Cutoff for LDA (yellow): 20 words
     * Set a cutoff in order to provide LDA with enough substance for a topic model
     * About 60% (16,000) comments met the threshold
+
+## Topics Found
+
+* Identified 12 topics among the comments
+
+1. **Testing** (testing, tn ready, eoc, much)
+2. **Special Education** (special education, rti, general, regular, intervention)
+3. **Teacher Evaluation** (evaluation, portfolio, kindergarten, developmentally appropriate)
+4. **School Climate** (counselor, mental health, class size, staff)
+5. **Planning Time** (planning time, spend, lesson, amount time, instructional time)
+6. **Technology** (technology, art, professional development, choice, access)
+7. **Salary** (pay, salary, increase, commissioner, raise)
+8. **Standards** (grade level, skill, standard, basic)
+9. **Charter Schools** (high school, public school, voucher, charter)
+10. **Test Prep** (year, standardized testing, end year, every year, throughout)
+11. **Instructional Materials** (resource, material, read, science, program, writing, book, unit)
+12. **Behavior and Discipline** (parent, behavior, child, accountable, discipline, held accountable, consequence)
+
