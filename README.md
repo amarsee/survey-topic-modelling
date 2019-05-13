@@ -56,3 +56,6 @@ Quick Facts:
 Testing and School Climate are by far the most common primary topics. There is a tighter range for the secondary topics
 
 * Assigned each comment to any topic for which the comment had a score above 0.2 for that topic
+
+<img src="/../screenshots/percentage_slide.png" width="500" height="300" title="Two Plots in One">
+
