@@ -8,6 +8,24 @@ This project was made as part of the final project for the Nashville Software Sc
 * Quantify prevalence of topics 
 * Using an exemplar comment, find other comments that are similar
 
+## Notebooks
+
+* initial_exploration_python.ipynb
+      * Initial exploration of 2018 data using a number of NLP techniques
+* preliminary_results.ipynb
+      * Preliminary analysis of 2018 data and further exploration of NLP
+* survey_2019_responses.ipynb
+      * Cleaner exploration and initial exploration of 2019 data
+* interactive_app_2019.ipynb
+      * Interactivity added with ipywidgets
+      * LDA vizualized with PyLDAvis
+      * Ability to filter comments by district, gender, and years of experience
+      * Inspect topics by seeing any of the top 25 most representative comments of the topic
+      * Find similar comments by typing a query or pasting a comment in the corpus
+            * Uses cosine similarity to find similar comments
+* interactive_app_2019_no_ldavis.ipynb
+      * Same as interactive_app_2019, but with the LDAvis suppressed
+
 ## Background 
 
 Each spring, a survey is sent out to all educators across the state of Tennessee, including teachers and administrators. This survey is used to inform policy going forward and assess effectiveness of policies looking back.
@@ -58,4 +76,6 @@ Testing and School Climate are by far the most common primary topics. There is a
 * Assigned each comment to any topic for which the comment had a score above 0.2 for that topic
 
 <img src="/../screenshots/percentage_slide.png" width="500" height="300" title="Two Plots in One">
+
+Testing and School Climate are largely talked about in over half of open ended comments
 
