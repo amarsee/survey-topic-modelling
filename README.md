@@ -11,20 +11,20 @@ This project was made as part of the final project for the Nashville Software Sc
 ## Notebooks
 
 * initial_exploration_python.ipynb
-      * Initial exploration of 2018 data using a number of NLP techniques
+     * Initial exploration of 2018 data using a number of NLP techniques
 * preliminary_results.ipynb
-      * Preliminary analysis of 2018 data and further exploration of NLP
+     * Preliminary analysis of 2018 data and further exploration of NLP
 * survey_2019_responses.ipynb
-      * Cleaner exploration and initial exploration of 2019 data
+     * Cleaner exploration and initial exploration of 2019 data
 * interactive_app_2019.ipynb
-      * Interactivity added with ipywidgets
-      * LDA vizualized with PyLDAvis
-      * Ability to filter comments by district, gender, and years of experience
-      * Inspect topics by seeing any of the top 25 most representative comments of the topic
-      * Find similar comments by typing a query or pasting a comment in the corpus
-            * Uses cosine similarity to find similar comments
+     * Interactivity added with ipywidgets
+     * LDA vizualized with PyLDAvis
+     * Ability to filter comments by district, gender, and years of experience
+     * Inspect topics by seeing any of the top 25 most representative comments of the topic
+     * Find similar comments by typing a query or pasting a comment in the corpus
+          * Uses cosine similarity to find similar comments
 * interactive_app_2019_no_ldavis.ipynb
-      * Same as interactive_app_2019, but with the LDAvis suppressed
+     * Same as interactive_app_2019, but with the LDAvis suppressed
 
 ## Background 
 
