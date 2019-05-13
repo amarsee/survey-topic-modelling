@@ -23,7 +23,7 @@ Quick Facts:
 
 ## Data Exploration
 
-<img src="/../screenshots/cdf_word_counts.png" width="500" height="350" title="Word Count CDF"> 
+<img src="/../screenshots/cdf_word_counts.png" width="800" height="450" title="Word Count CDF"> 
 
 * Mean (red): 53 words
 * Cutoff for LDA (yellow): 20 words
