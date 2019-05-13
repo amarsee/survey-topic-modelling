@@ -51,4 +51,4 @@ Quick Facts:
 
 * Plotted topics by number of comments scoring highest and second highest in each topic 
 
-<img src="/../screenshots/capston_presentation.png" width="600" height="350" title="Two Plots in One">
+<img src="/../screenshots/capstone_presentation.png" width="600" height="350" title="Two Plots in One">
