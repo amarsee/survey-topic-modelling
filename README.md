@@ -23,7 +23,7 @@ Quick Facts:
 
 ## Data Exploration
 
-<img src="/../screenshots/cdf_word_counts.png" width="800" height="450" title="Word Count CDF"> 
+<img src="/../screenshots/cdf_word_counts.png" width="500" height="350" title="Word Count CDF"> 
 
 * Mean (red): 53 words
 * Cutoff for LDA (yellow): 20 words
@@ -51,4 +51,4 @@ Quick Facts:
 
 * Plotted topics by number of comments scoring highest and second highest in each topic 
 
-<img src="/../screenshots/capstone_presentation.png" width="600" height="350" title="Two Plots in One">
+<img src="/../screenshots/capstone_presentation.png" width="800" height="400" title="Two Plots in One">
