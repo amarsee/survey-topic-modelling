@@ -47,3 +47,8 @@ Quick Facts:
 11. **Instructional Materials** (resource, material, read, science, program, writing, book, unit)
 12. **Behavior and Discipline** (parent, behavior, child, accountable, discipline, held accountable, consequence)
 
+## Results
+
+* Plotted topics by number of comments scoring highest and second highest in each topic 
+
+<img src="/../screenshots/capston_presentation.png" width="600" height="350" title="Two Plots in One">
