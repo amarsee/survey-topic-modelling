@@ -20,7 +20,7 @@ This project was made as part of the final project for the Nashville Software Sc
      * Interactivity added with ipywidgets
      * LDA vizualized with PyLDAvis
      * Ability to filter comments by district, gender, and years of experience
-     * Inspect topics by seeing any of the top 25 most representative comments of the topic
+     * Further interpret topics by seeing any of the top 25 most representative comments in a selected topic
      * Find similar comments by typing a query or pasting a comment in the corpus
           * Uses cosine similarity to find similar comments
 * interactive_app_2019_no_ldavis.ipynb
